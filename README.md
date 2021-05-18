@@ -1,8 +1,12 @@
 # MediffTechRound
 ConsoleAPP2 is problem 1 (Dictionary)
+
 Console App3 is problem 2 (Palindrome)
+
 LogConsoleApp4 is problem 3 (parsing a log file)
+
 ConsoleApp4 is problem 4 (implementing change directory)
+
 StudentRecordASP is problem 5 (not using database maintain student records)
 
 ConsoleAPP2:
