@@ -1,0 +1,7 @@
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\bin\Debug\ConsoleApp4Path.exe.config
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\bin\Debug\ConsoleApp4Path.exe
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\bin\Debug\ConsoleApp4Path.pdb
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\obj\Debug\ConsoleApp4Path.csprojAssemblyReference.cache
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\obj\Debug\ConsoleApp4Path.csproj.CoreCompileInputs.cache
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\obj\Debug\ConsoleApp4Path.exe
+C:\Users\Upendranath\source\repos\ConsoleApp4Path\ConsoleApp4Path\obj\Debug\ConsoleApp4Path.pdb

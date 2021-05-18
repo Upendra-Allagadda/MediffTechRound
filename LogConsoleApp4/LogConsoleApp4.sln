@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogConsoleApp4", "LogConsoleApp4\LogConsoleApp4.csproj", "{04CCB82E-7FAF-44E9-8CA8-FF8EE3F5DF75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CCB82E-7FAF-44E9-8CA8-FF8EE3F5DF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CCB82E-7FAF-44E9-8CA8-FF8EE3F5DF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CCB82E-7FAF-44E9-8CA8-FF8EE3F5DF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CCB82E-7FAF-44E9-8CA8-FF8EE3F5DF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CFF53A-98BD-4672-B486-FCC14C07ADE3}
+	EndGlobalSection
+EndGlobal
