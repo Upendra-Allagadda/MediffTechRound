@@ -14,6 +14,7 @@ namespace ConsoleApp3
             string strPalindrome = Console.ReadLine();
             strPalindrome = strPalindrome.ToLower();
             char[] strRevPalindrome = strPalindrome.ToCharArray();
+            bool isPalindrome=true;
 
             //the below region is one more way of finding whether a given string is palindrome or not
             #region Reversing a string
@@ -32,10 +33,14 @@ namespace ConsoleApp3
             {
                 if (strRevPalindrome[i] != strRevPalindrome[strRevPalindrome.Length - i - 1])
                 {
-                    Console.WriteLine("NO");
+                    isPalindrome=false;
+                    Console.WriteLine("Not a palindrome");
                     Console.ReadKey();
-                    return;
+                    break;
                 }
+            }
+            if(isPalindrome){
+                Console.WriteLine("Given string is a palindrome");
             }
             Console.ReadKey();
         }
