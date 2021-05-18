@@ -60,4 +60,4 @@ Run the project(chrome browser is ideal).
 
 Once you see the gridview in web browser, you can add new record, delete and update the records.
 
-This is done by using xml. No database is used.
+This is done by using XML and DataGridView. No database is used.
