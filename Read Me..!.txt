@@ -3,3 +3,8 @@ Console App3 is problem 2 (Palindrome)
 LogConsoleApp4 is problem 3 (parsing a log file)
 ConsoleApp4 is problem 4 (implementing change directory)
 StudentRecordASP is problem 5 (not using database maintain student records)
+
+
+Development setup :
+Requires Visual studio 2019.
+Final problem requires ASP.NET installed in vs2019.
