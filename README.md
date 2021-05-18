@@ -1,4 +1,6 @@
 # MediffTechRound
+Solution names and their respective problem linkage..
+
 ConsoleAPP2 is problem 1 (Dictionary)
 
 Console App3 is problem 2 (Palindrome)
