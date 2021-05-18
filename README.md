@@ -13,6 +13,9 @@ StudentRecordASP is problem 5 (not using database maintain student records)
 
 
 
+<h4>Note: </h4> All the projects should be opened with the help of visual studio. VS2019 is ideal for running these projects.
+
+
 <h3>ConsoleAPP2:</h3>
 
 This is a console application.
@@ -30,6 +33,8 @@ The user is expected to provide the input in the console.
 
 The output will be shown in output window.
 
+If the input is valid then the output is visible in the output window else error message will be shown in the output window.
+
 
 <h3>LogConsoleApp:</h3>
 
@@ -45,3 +50,10 @@ The errors and warnings are read from old file and written to new file.
 This is a console application.
 
 The user should provide the input path in main function.
+
+
+<h3>StudenRecordASP:</h3>
+
+This is an ASP.NET project.
+
+Run the project(chrome browser is ideal).
