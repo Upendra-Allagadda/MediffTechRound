@@ -9,7 +9,9 @@ ConsoleApp4 is problem 4 (implementing change directory)
 
 StudentRecordASP is problem 5 (not using database maintain student records)
 
-<h4>ConsoleAPP2:</h4>
+
+
+<h3>ConsoleAPP2:</h3>
 
 This is a console application.
 
@@ -17,7 +19,8 @@ Input was expected to be given in the program itself.
 
 After the input is provided the result will be shown in output window.
 
-ConsoleAPP3:
+
+<h3>ConsoleAPP3:</h3>
 
 This is a console application.
 
@@ -25,7 +28,8 @@ The user is expected to provide the input in the console.
 
 The output will be shown in output window.
 
-LogConsoleApp:
+
+<h3>LogConsoleApp:</h3>
 
 This is a console application.
 
@@ -33,7 +37,8 @@ The user is requested to provide the existing file paths both new and old.
 
 The errors and warnings are read from old file and written to new file.
 
-ConsoleAPP4:
+
+<h3>ConsoleAPP4:</h3>
 
 This is a console application.
 
